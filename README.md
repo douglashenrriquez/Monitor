@@ -31,3 +31,6 @@ pip install -r requirements.txt
 
 ### 3. Ejecución de la Aplicación
 python manage.py runserver
+
+Video 
+https://youtu.be/SGWntYxq5eQ
