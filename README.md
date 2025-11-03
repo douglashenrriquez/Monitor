@@ -1,4 +1,8 @@
 # Monitor del Sistema - Django + Psutil
+Alejandro Gallardo 202210080087
+Douglas Henrriquez 202010110221
+Brayan Matute 202010110229
+
 
 ## Descripción del Proyecto
 Aplicación web desarrollada con Django que permite monitorear en tiempo real el estado del sistema, incluyendo el uso del CPU, memoria RAM, almacenamiento en disco y otros recursos del sistema utilizando la librería `psutil`.
