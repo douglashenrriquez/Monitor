@@ -24,6 +24,7 @@ Aplicación web desarrollada con Django que permite monitorear en tiempo real el
 ## Instalación y Ejecución
 
 ### 1. Clonar o descargar el proyecto
+https://github.com/douglashenrriquez/Monitor.git
 
 ### 2. Instalar dependencias
 pip install -r requirements.txt
